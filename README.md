@@ -1,10 +1,10 @@
-# Dell_assignment_Towers
+### Dell_assignment_Towers Documentation
 
 ## Introduction
 
-Tower of Hanoi game is a puzzle invented by French mathematician Édouard Lucas in 1883.
+Towers of Hanoi game is a puzzle invented by French mathematician Édouard Lucas in 1883.
 
-**History of Tower of Hanoi**
+**History of Towers of Hanoi**
 
 The legend has it there is a temple in Hanoi (Vietnam) that has a large room with three diamond towers surrounded by 64 golden disks (1.844674407371E+19 days).
 According to a prophecy, when the last move of the puzzle is completed the world will end. These priests acting on the prophecy, follow the immutable rule by Lord Brahma
